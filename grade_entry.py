@@ -4,7 +4,7 @@
 2.  If any entered score in below 35, terminate the program 
     and inform the user that the exam has been failed
 3.  If all three scores are above 35, inform the user that 
-    they have passed them exam and display the average score
+    they have passed the exam and display the average score
 4.  Display a grade based on the following criteria:
     a) <= 59  - C
     b) <= 69  - B
@@ -12,7 +12,9 @@
 
 ~ Cow.py ~
 
-Made for "Python Core and Advanced" - Bharath Thippireddy Assignment 3: If-Else Ladder https://www.udemy.com/course/python-core-and-advanced/
+Made for "Python Core and Advanced" - Bharath Thippireddy 
+Assignment 3: If-Else Ladder 
+https://www.udemy.com/course/python-core-and-advanced/
 '''
 subjects = ["Math", "Physics", "Chemistry"]
 scores = []
